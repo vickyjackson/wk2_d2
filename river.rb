@@ -1,3 +1,5 @@
+require_relative('fish')
+
 class River
 
   # Getters

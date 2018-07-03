@@ -1,4 +1,5 @@
 require_relative('river')
+require_relative('fish')
 
 class Bear
 

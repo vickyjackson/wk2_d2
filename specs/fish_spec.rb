@@ -9,5 +9,5 @@ class TestFish < Minitest::Test
     fish = Fish.new("Salmon")
     assert_equal("Salmon", fish.name())
   end
-  
+
 end
